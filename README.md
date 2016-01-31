@@ -1,2 +1,2 @@
 # mytest
-My first Githum repo
+My first Github repo
